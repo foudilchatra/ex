@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ex/static/css/main.36bf3cc5.css",
+    "main.js": "/ex/static/js/main.7040ce1a.js",
+    "static/js/453.915404c4.chunk.js": "/ex/static/js/453.915404c4.chunk.js",
+    "static/media/cor.png": "/ex/static/media/cor.0b05ac98fe8c9fbd0c27.png",
+    "static/media/pok.png": "/ex/static/media/pok.be9963320d147156509c.png",
+    "static/media/imj.jpg": "/ex/static/media/imj.d6d5f13f97edd9c60d34.jpg",
+    "static/media/git.png": "/ex/static/media/git.562cd1af0dd60d5da40d.png",
+    "static/media/blockchain-logo.png": "/ex/static/media/blockchain-logo.d5a414d2ea234a673a85.png",
+    "static/media/c-logo.png": "/ex/static/media/c-logo.1fd3868a3d8535242cc7.png",
+    "static/media/python-logo.png": "/ex/static/media/python-logo.16d3471aa00e43c4ef3d.png",
+    "static/media/react-logo.png": "/ex/static/media/react-logo.bb44600a95c0829107d8.png",
+    "static/media/html-css-logo.png": "/ex/static/media/html-css-logo.057824248a2a2ff5b9d2.png",
+    "index.html": "/ex/index.html",
+    "main.36bf3cc5.css.map": "/ex/static/css/main.36bf3cc5.css.map",
+    "main.7040ce1a.js.map": "/ex/static/js/main.7040ce1a.js.map",
+    "453.915404c4.chunk.js.map": "/ex/static/js/453.915404c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36bf3cc5.css",
+    "static/js/main.7040ce1a.js"
+  ]
+}
